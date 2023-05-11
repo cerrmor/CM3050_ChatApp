@@ -2,6 +2,8 @@
 
 This chat application was constructed as the final submission for CM3050 mobile development.
 
+link to the expo phone emulator https://snack.expo.dev/@valseth/chatapp?platform=android
+
 # React Native Chat application
 
 The project is a social messaging app where users can create group messaging rooms, or select another user from a list to start a private chat.
